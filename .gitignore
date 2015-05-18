@@ -6,3 +6,6 @@ config.js
 [O|o]bj/
 .DS_Store
 *.class
+/node_modules/
+/.vagrant/
+/.project
